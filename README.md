@@ -26,7 +26,7 @@ Finding business insights to answer 5 questions by analyzing Used Car sales data
   5. Group car models: if the price is more than or equal to 1000000, then label it as 'Flagship Model'; if the price is lower than 1000000, then label it as 'Normal Model'.
 
 ## Hotel Business Analysis
-Finding business insights to answer 5 questions by analyzing Hotel Past Booking data using 3 tables.
+Finding business insights to answer 5 questions by analyzing Hotel Past Booking data using 2 tables.
 
 ### Question
   1. Type of room and how many rooms are available?
