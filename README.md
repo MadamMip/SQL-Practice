@@ -1,6 +1,7 @@
 # SQL-Practice
 
 Thank you for an awesome free HR-Employee guided project from Her Data Project: https://youtu.be/PzyZI9uLXvY?si=rziuKthlcFPhHNGB
+
 Thank you for free SQL practice from Datayolk: https://www.facebook.com/datayolk
 
 ## HR-Employee Analysis (Cr. Her Data Project)
