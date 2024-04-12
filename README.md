@@ -1,9 +1,26 @@
 # SQL-Practice
 
-Thank you for SQL practice from Datayolk: https://www.facebook.com/datayolk
+Thank you for an awesome free HR-Employee guided project from Her Data Project: https://youtu.be/PzyZI9uLXvY?si=rziuKthlcFPhHNGB
+Thank you for free SQL practice from Datayolk: https://www.facebook.com/datayolk
 
-## Customer Review Analysis
-Finding business insights to answer 8 questions by analyzing customer review data using 3 tables.
+## HR-Employee Analysis (Cr. Her Data Project)
+Finding insights to answer 11 questions by analyzing the HR dataset, and also presenting a visualization using PowerBI.
+
+### Question
+  1. What is the gender breakdown of employees in the company?
+  2. What is the race/ethnicity breakdown of employees in the company?
+  3. What is the age distribution of employees in the company?
+  4. How many employees work at headquarters versus remote locations?
+  5. What is the average length of employment for employees who have been terminated?
+  6. How does the gender distribution vary across departments and job titles?
+  7. What is the distribution of job titles across the company?
+  8. Which department has the highest turnover rate?
+  9. What is the distribution of employees across locations by city and state?
+  10. How has the company's employee count changed over time based on hire and term dates?
+  11. What is the tenure distribution for each department?
+
+## Customer Review Analysis (Cr. Datayolk)
+Finding business insights to answer 8 questions by analyzing customer review dataset using 3 tables.
 
 ### Question
   1. The average rating of each product.
@@ -15,8 +32,8 @@ Finding business insights to answer 8 questions by analyzing customer review dat
   7. Which customers posted positive reviews (excellent, impressive, recommend) and gave a rating of more than 4?
   8. Find the average number of words each customer writes in their reviews.
 
-## Car Dealer Analysis
-Finding business insights to answer 5 questions by analyzing Used Car sales data using 3 tables.
+## Car Dealer Analysis (Cr. Datayolk)
+Finding business insights to answer 5 questions by analyzing Used Car sales dataset using 3 tables.
 
 ### Question
   1. Which type of vehicle got the largest total sales?
@@ -25,8 +42,8 @@ Finding business insights to answer 5 questions by analyzing Used Car sales data
   4. In 2023, which fuel type got the most sales?
   5. Group car models: if the price is more than or equal to 1000000, then label it as 'Flagship Model'; if the price is lower than 1000000, then label it as 'Normal Model'.
 
-## Hotel Business Analysis
-Finding business insights to answer 5 questions by analyzing Hotel Past Booking data using 2 tables.
+## Hotel Business Analysis (Cr. Datayolk)
+Finding business insights to answer 5 questions by analyzing Hotel Past Booking dataset using 2 tables.
 
 ### Question
   1. Type of room and how many rooms are available?
